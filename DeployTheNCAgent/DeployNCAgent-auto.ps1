@@ -10,12 +10,12 @@
 # Version: 1.1
  
 # Define the  parameters to be used by the script
-# Bellow are the constant values for  sentry.pro4ia.com, the JWT value that may change over time and 
+# Bellow are the constant values for  the N-central Server URL , the JWT value that may change over time and 
 # the $SpecifiedCustomerID field/value needs to change to reflect the current client
-# IMPORTANT: for new clients you ALWAYS have to downloade at least one  windows agent to yrou machine so a registration
+# IMPORTANT: for new clients you ALWAYS have to download at least one  windows agent to your machine so a registration
 # token be created for this in Sentry! Other wise the script will fail!
 
-$serverHost="Enteryor Server URL here without the HTTPS://"
+$serverHost="Enter your Server URL here without the HTTPS://"
 $JWT="Enter your JWT token for your API user here"
 #  Find the right one from 'administration - customers" in sentry. 
 $SpecifiedCustomerID="enter customer ID number here"
