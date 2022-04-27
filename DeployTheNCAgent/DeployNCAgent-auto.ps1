@@ -10,7 +10,7 @@
 # Version: 1.1
  
 # Define the  parameters to be used by the script
-# Bellow are the constant values for  the N-central Server URL , the JWT value that may change over time and 
+# Bellow are the declaration values for  the N-central Server URL , the JWT value that may change over time and 
 # the $SpecifiedCustomerID field/value needs to change to reflect the current client
 # IMPORTANT: for new clients you ALWAYS have to download at least one  windows agent to your machine so a registration
 # token be created for this in Sentry! Other wise the script will fail!
